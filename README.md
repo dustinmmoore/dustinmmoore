@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./Assets/Images/gitbanner-01.gif" height="300" width="1500" alt="Git Banner">
+  <img src="./Assets/Images/gitbanner-01.gif" alt="Git Banner">
   
  #
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%23%23+%3Cdev+class%3D%22Front-End+Developer%22%3E_)
@@ -8,10 +8,10 @@
 ---
 
 ## 🚀 About Me
-- I’m currently working on frontend and full-stack projects with **React, Bootstrap, Next.js**.
-- I’m learning **Three.js** and **AI-based tools** to enhance user experiences.
-- I love to code, solve problems, and work with **modern web technologies**.
-- ⚡ Fun fact: When I’m not coding, I'm probably **hiking**, working on **cyber security** projects, or exploring new tech!
+- I’m currently working on front-end and full-stack projects with **React, Bootstrap, Next.js**.
+- I’m learning **APIs/RESTful services** and **AI-based tools** to enhance user experiences.
+- I love to code, solve problems, and work with **modern web technologies**. -
+- **Fun fact**: I’ve gone from leading sniper teams in the Army to shaping digital experiences as a front-end web developer. Not your typical journey, but it works for me.
 
 ---
 
