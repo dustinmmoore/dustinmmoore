@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./Assets/Images/dmdev-01.png" alt="Git Banner">
+  <img src="./Assets/Images/gitbanner-03.png" alt="Git Banner">
   
  #
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%23%23+%3Cdev+class%3D%22Front-End+Developer%22%3E_)
