@@ -8,10 +8,7 @@
 ---
 
 ## 🚀 About Me
-- I’m currently working on front-end and full-stack projects with **React, Bootstrap, Next.js**.
-- I’m learning **APIs/RESTful services** and **AI-based tools** to enhance user experiences.
-- I love to code, solve problems, and work with **modern web technologies**.
-- **Fun fact**: I’ve gone from leading sniper teams in the Army to shaping digital experiences as a front-end web developer. Not your typical journey, but it works for me.
+I’m a front-end developer with a focus on creating responsive, user-driven web experiences. Starting with Squarespace, I quickly progressed to advanced frameworks like React, Bootstrap, and Next.js, allowing me to build seamless, high-quality digital solutions. I leverage tools such as Git, GitHub, and Vercel to streamline workflows and ensure efficient deployment, consistently delivering projects ahead of schedule. By embracing AI and industry innovations, I prioritize efficiency and modern standards, crafting engaging, intuitive web experiences that drive results.
 
 ---
 
