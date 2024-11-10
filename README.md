@@ -58,7 +58,6 @@ I’m a front-end developer with a focus on creating responsive, user-driven web
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dustinmmoore&theme=radical" alt="GitHub Streak">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dustinmmoore&layout=compact&theme=radical" alt="Top Languages">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dustinmmoore&theme=radical" alt="Profile Details">
-  <img src="https://github-readme-stats.vercel.app/api?username=dustinmmoore&show_icons=true&theme=radical" alt="GitHub Stats">
 </div>
 
 ---
