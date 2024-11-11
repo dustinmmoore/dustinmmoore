@@ -1,8 +1,15 @@
 <div align="center">
   <img src="./Assets/Images/gitbanner-02.png" alt="Git Banner">
-  
- #
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=39E8F7&width=435&lines=%23%23+%3Cdev+class%3D%22Front-End+Developer%22%3E_)
+</div>
+
+<div align="center" style="display: flex; justify-content: center; gap: 15px;">
+  <a href="https://www.dustinmoore.dev"><img src="https://img.shields.io/badge/Website-Dustin%20Moore-1E90FF?style=flat-square&logo=google-chrome"></a>
+  <a href="mailto:dustinmmoore@icloud.com"><img src="https://img.shields.io/badge/Email-dustinmmoore%40icloud.com-6A5ACD?style=flat-square&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/dustinmmoore"><img src="https://img.shields.io/badge/LinkedIn-Dustin%20Moore-00BFFF?style=flat-square&logo=linkedin"></a>
+</div>
+<br>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=39E8F7&width=435&lines=%23%23+%3Cdev+class%3D%22Front-End+Developer%22%3E_" alt="Typing SVG">
 </div>
 
 ---
@@ -11,8 +18,6 @@
 I’m a front-end developer with a focus on creating responsive, user-driven web experiences. Starting with Squarespace, I quickly progressed to advanced frameworks like React, Bootstrap, and Next.js, allowing me to build seamless, high-quality digital solutions. I leverage tools such as Git, GitHub, and Vercel to streamline workflows and ensure efficient deployment, consistently delivering projects ahead of schedule. By embracing AI and industry innovations, I prioritize efficiency and modern standards, crafting engaging, intuitive web experiences that drive results.
 
 ---
-
-
 
 ## 🛠️ Technologies & Tools
 <br>
@@ -58,15 +63,6 @@ I’m a front-end developer with a focus on creating responsive, user-driven web
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dustinmmoore&theme=radical" alt="GitHub Streak">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dustinmmoore&layout=compact&theme=radical" alt="Top Languages">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dustinmmoore&theme=radical" alt="Profile Details">
-</div>
-
----
-
-## 🤝 Let's Connect
-<div align="center" style="flex-wrap: wrap; display: flex; justify-content: center; gap: 15px;">
-  <a href="https://www.dustinmoore.dev"><img src="https://img.shields.io/badge/Website-Dustin%20Moore-1E90FF?style=flat-square&logo=google-chrome"></a>
-  <a href="mailto:dustinmmoore@icloud.com"><img src="https://img.shields.io/badge/Email-dustinmmoore%40icloud.com-6A5ACD?style=flat-square&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/dustinmmoore"><img src="https://img.shields.io/badge/LinkedIn-Dustin%20Moore-00BFFF?style=flat-square&logo=linkedin"></a>
 </div>
 
 ---
