@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./Assets/Images/gitbanner-02.png" alt="Git Banner">
 </div>
-
+<br>
 <div align="center" style="display: flex; justify-content: center; gap: 15px;">
   <a href="https://www.dustinmoore.dev"><img src="https://img.shields.io/badge/Website-Dustin%20Moore-1E90FF?style=flat-square&logo=google-chrome"></a>
   <a href="mailto:dustinmmoore@icloud.com"><img src="https://img.shields.io/badge/Email-dustinmmoore%40icloud.com-6A5ACD?style=flat-square&logo=gmail"></a>
@@ -39,7 +39,7 @@ I’m a front-end developer with a focus on creating responsive, user-driven web
 ## 🌟 My Projects
 <div align="left">
   <h3>Personal Portfolio Website</h3>
-  <p>A showcase of my portfolio, built with React, Next.js, Typescript for responsive design.</p>
+  <p>A showcase of my portfolio, built with React, Next.js, and Typescript for responsive design.</p>
   <div align="center">
     <img src="./Assets/Images/port-01.png" alt="Portfolio Animation">
   </div>
