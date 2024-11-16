@@ -54,15 +54,6 @@ I’m a front-end developer with a focus on creating responsive, user-driven web
   </div>
   <p><a href="https://github.com/dustinmmoore/library">🔗 View Project</a></p>
 </div>
-<br>
 
 ---
 
-## 📊 GitHub Stats & Activity
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dustinmmoore&theme=radical" alt="GitHub Streak">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dustinmmoore&layout=compact&theme=radical" alt="Top Languages">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dustinmmoore&theme=radical" alt="Profile Details">
-</div>
-
----
