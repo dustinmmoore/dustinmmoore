@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./Assets/Images/gitbanner-02.png" alt="Git Banner">
+  <img src="./Assets/Images/bright.jpg" alt="Git Banner">
 </div>
 <br>
 <div align="center" style="display: flex; justify-content: center; gap: 15px;">
