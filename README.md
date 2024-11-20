@@ -41,19 +41,56 @@ I’m a front-end developer with a focus on creating responsive, user-driven web
   <h3>Personal Portfolio Website</h3>
   <p>A showcase of my portfolio, built with React, Next.js, and Typescript for responsive design.</p>
   <div align="center">
-    <img src="./Assets/Images/port-01.png" alt="Portfolio Animation">
+    <img src="./Assets/Images/dm1.jpg" alt="Portfolio Animation">
   </div>
-  <p><a href="https://github.com/dustinmmoore/magic-portfolio">🔗 View Project</a></p>
 </div>
-<br>
-<div align="left">
-  <h3>Dynamic Business Website (Under Construction)</h3>
-  <p>Kinetic Solutions LLC revamp powered by Bootstrap and Javascript.</p>
   <div align="center">
-    <img src="./Assets/Images/ksredux-01.png" alt="Portfolio Animation">
+    <img src="./Assets/Images/dm2.jpg" alt="Portfolio Animation">
   </div>
-  <p><a href="https://github.com/dustinmmoore/library">🔗 View Project</a></p>
 </div>
-
+  <div align="center">
+    <img src="./Assets/Images/dm3.jpg" alt="Portfolio Animation">
+  </div>
+</div>
+  <div align="center">
+    <img src="./Assets/Images/dm4.jpg" alt="Portfolio Animation">
+  </div>
+</div>
+  <div align="center">
+    <img src="./Assets/Images/dm5.jpg" alt="Portfolio Animation">
+  </div>
+    <p><a href="https://github.com/dustinmmoore/magic-portfolio">🔗 View Project</a></p>
+</div>
+<br><br>
+<div align="left">
+  <h3>Dynamic Business Website</h3>
+  <p>Kinetic Solutions LLC revamp powered by Bootstrap 5 and  Vanilla Javascript.</p>
+  <div align="center">
+    <img src="./Assets/Images/ks1.jpg" alt="Portfolio Animation">
+  </div>
+</div>
+</div>
+  <div align="center">
+    <img src="./Assets/Images/ks3.jpg" alt="Portfolio Animation">
+  </div>
+</div>
+</div>
+  <div align="center">
+    <img src="./Assets/Images/ks5.jpg" alt="Portfolio Animation">
+  </div>
+</div>
+  <div align="center">
+    <img src="./Assets/Images/ks6.jpg" alt="Portfolio Animation">
+  </div>
+</div>
+  <div align="center">
+    <img src="./Assets/Images/ks7.jpg" alt="Portfolio Animation">
+  </div>
+</div>
+  <div align="center">
+    <img src="./Assets/Images/ks8.jpg" alt="Portfolio Animation">
+  </div>
+  <p><a href="https://github.com/dustinmmoore/kineticsolutionsllc">🔗 View Project</a></p>
+</div>
 ---
 
