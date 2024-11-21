@@ -15,7 +15,7 @@
 ---
 
 ## 🚀 About Me
-I’m a front-end developer with a focus on creating responsive, user-driven web experiences. Starting with Squarespace, I quickly progressed to advanced frameworks like React, Bootstrap, and Next.js, allowing me to build seamless, high-quality digital solutions. I leverage tools such as Git, GitHub, and Vercel to streamline workflows and ensure efficient deployment, consistently delivering projects ahead of schedule. By embracing AI and industry innovations, I prioritize efficiency and modern standards, crafting engaging, intuitive web experiences that drive results.
+I’m a full-stack developer specializing in responsive, user-focused web experiences. Starting with Squarespace, I quickly advanced to frameworks like React, Bootstrap, and Next.js, along with Node.js for back-end development, allowing me to build seamless, high-quality digital solutions from end to end. I use tools like Git, GitHub, and Vercel to optimize workflows and ensure efficient deployment, consistently delivering projects on time. By embracing AI and modern technologies, I prioritize efficiency and industry standards, crafting intuitive, engaging web experiences that drive results.
 
 ---
 
