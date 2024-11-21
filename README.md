@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./Assets/Images/bright.jpg" alt="Git Banner">
+  <img src="./Assets/Images/dmbanner.png" alt="Dustin Moore">
 </div>
 <br>
 <div align="center" style="display: flex; justify-content: center; gap: 15px;">
@@ -9,7 +9,7 @@
 </div>
 <br>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=39E8F7&width=435&lines=%23%23+%3Cdev+class%3D%22Front-End+Developer%22%3E_" alt="Typing SVG">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=48DDF7&width=435&lines=%23%23+%3Cdev+class%3D%22Full-Stack+Developer%22%3E" alt="Typing SVG" /></a>
 </div>
 
 ---
@@ -92,5 +92,6 @@ I’m a front-end developer with a focus on creating responsive, user-driven web
   </div>
   <p><a href="https://github.com/dustinmmoore/kineticsolutionsllc">🔗 View Project</a></p>
 </div>
+
 ---
 
