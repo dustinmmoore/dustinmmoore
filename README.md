@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./Assets/Images/banner.jpg" alt="Dustin Moore">
+  <img src="./Assets/Images/banner.png" alt="Dustin Moore">
 </div>
 <br>
 <div align="center" style="display: flex; justify-content: center; gap: 15px;">
@@ -15,7 +15,7 @@
 ---
 
 ## 🚀 About Me
-I’m a full-stack developer specializing in responsive, user-focused web experiences. Starting with Squarespace, I quickly advanced to frameworks like React, Bootstrap, and Next.js, along with Node.js for back-end development, allowing me to build seamless, high-quality digital solutions from end to end. I use tools like Git, GitHub, and Vercel to optimize workflows and ensure efficient deployment, consistently delivering projects on time. By embracing AI and modern technologies, I prioritize efficiency and industry standards, crafting intuitive, engaging web experiences that drive results.
+Hi! I’m Dustin, a detail-oriented IT and Web Solutions Engineer with over five years of experience in technical support, system troubleshooting, and IT infrastructure management. Since 2021, I’ve specialized in full-stack web development, designing responsive, user-friendly websites using modern frameworks. My combined expertise in IT and web development enables me to deliver seamless, efficient, and reliable digital solutions tailored to meet diverse needs.
 
 ---
 
@@ -39,58 +39,42 @@ I’m a full-stack developer specializing in responsive, user-focused web experi
 ## 🌟 My Projects
 <div align="left">
   <h3>Personal Portfolio Website</h3>
-  <p>A showcase of my portfolio, built with React, Next.js, and Typescript for responsive design.</p>
+  <p>Portfolio with React, Next.js, and Typescript.</p>
   <div align="center">
     <img src="./Assets/Images/dm1.jpg" alt="Portfolio Animation">
   </div>
 </div>
-  <div align="center">
-    <img src="./Assets/Images/dm2.jpg" alt="Portfolio Animation">
-  </div>
-</div>
-  <div align="center">
-    <img src="./Assets/Images/dm3.jpg" alt="Portfolio Animation">
-  </div>
-</div>
-  <div align="center">
-    <img src="./Assets/Images/dm4.jpg" alt="Portfolio Animation">
-  </div>
-</div>
-  <div align="center">
-    <img src="./Assets/Images/dm5.jpg" alt="Portfolio Animation">
-  </div>
     <p><a href="https://github.com/dustinmmoore/magic-portfolio">🔗 View Project</a></p>
 </div>
 <br><br>
 <div align="left">
   <h3>Dynamic Business Website</h3>
-  <p>Kinetic Solutions LLC revamp powered by Bootstrap 5 and  Vanilla Javascript.</p>
+  <p>Kinetic Solutions LLC</p>
   <div align="center">
     <img src="./Assets/Images/ks1.jpg" alt="Portfolio Animation">
   </div>
 </div>
-</div>
-  <div align="center">
-    <img src="./Assets/Images/ks3.jpg" alt="Portfolio Animation">
-  </div>
-</div>
-</div>
-  <div align="center">
-    <img src="./Assets/Images/ks5.jpg" alt="Portfolio Animation">
-  </div>
-</div>
-  <div align="center">
-    <img src="./Assets/Images/ks6.jpg" alt="Portfolio Animation">
-  </div>
-</div>
-  <div align="center">
-    <img src="./Assets/Images/ks7.jpg" alt="Portfolio Animation">
-  </div>
-</div>
-  <div align="center">
-    <img src="./Assets/Images/ks8.jpg" alt="Portfolio Animation">
-  </div>
   <p><a href="https://github.com/dustinmmoore/kineticsolutionsllc">🔗 View Project</a></p>
+</div>
+<br><br>
+<div align="left">
+  <h3>DNS A Record Creator</h3>
+  <p>Simple DNS management tool for IT and networking professionals.</p>
+  <div align="center">
+    <img src="./Assets/Images/a-record-creator.jpg" alt="Portfolio Animation">
+  </div>
+</div>
+    <p><a href="https://github.com/dustinmmoore/a-record-creator">🔗 View Project</a></p>
+</div>
+<br><br>
+<div align="left">
+  <h3>Tic Tac Toe with Party Mode</h3>
+  <p>A slightly different take on Tic Tac Toe.</p>
+  <div align="center">
+    <img src="./Assets/Images/tic-tac-toe.jpg" alt="Portfolio Animation">
+  </div>
+</div>
+    <p><a href="https://github.com/dustinmmoore/tictactoe">🔗 View Project</a></p>
 </div>
 
 ---
