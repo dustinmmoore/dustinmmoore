@@ -15,7 +15,7 @@
 ---
 
 ## 🚀 About Me
-Hi! I’m Dustin, a detail-oriented IT and Web Solutions Engineer with over five years of experience in technical support, system troubleshooting, and IT infrastructure management. Since 2021, I’ve specialized in full-stack web development, designing responsive, user-friendly websites using modern frameworks. My combined expertise in IT and web development enables me to deliver seamless, efficient, and reliable digital solutions tailored to meet diverse needs.
+Hi! I’m Dustin, a detail-oriented IT and Web Solutions Engineer with over five years of experience in technical support, system troubleshooting, and IT infrastructure management. Since 2021, I’ve specialized in web development, designing responsive, user-friendly websites using modern frameworks. My combined expertise in IT and web development enables me to deliver seamless, efficient, and reliable digital solutions tailored to meet diverse needs.
 
 ---
 
@@ -45,17 +45,6 @@ Hi! I’m Dustin, a detail-oriented IT and Web Solutions Engineer with over five
   </div>
 </div>
     <p><a href="https://github.com/dustinmmoore/magic-portfolio">🔗 View Project</a></p>
-</div>
-<br><br>
-<div align="left">
-  <h3>Dynamic Business Website</h3>
-  <p>Kinetic Solutions LLC</p>
-  <div align="center">
-    <img src="./Assets/Images/ks1.jpg" alt="Portfolio Animation">
-  </div>
-</div>
-  <p><a href="https://github.com/dustinmmoore/kineticsolutionsllc">🔗 View Project</a></p>
-</div>
 <br><br>
 <div align="left">
   <h3>DNS A Record Creator</h3>
@@ -65,7 +54,6 @@ Hi! I’m Dustin, a detail-oriented IT and Web Solutions Engineer with over five
   </div>
 </div>
     <p><a href="https://github.com/dustinmmoore/a-record-creator">🔗 View Project</a></p>
-</div>
 <br><br>
 <div align="left">
   <h3>Tic Tac Toe with Party Mode</h3>
@@ -75,7 +63,15 @@ Hi! I’m Dustin, a detail-oriented IT and Web Solutions Engineer with over five
   </div>
 </div>
     <p><a href="https://github.com/dustinmmoore/tictactoe">🔗 View Project</a></p>
+<br><br>
+<div align="left">
+  <h3>Dynamic Business Website</h3>
+  <p>Kinetic Solutions LLC</p>
+  <div align="center">
+    <img src="./Assets/Images/ks1.jpg" alt="Portfolio Animation">
+  </div>
 </div>
+  <p><a href="https://github.com/dustinmmoore/kineticsolutionsllc">🔗 View Project</a></p>
 
 ---
 
