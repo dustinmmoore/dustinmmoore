@@ -39,7 +39,7 @@ Hi! I’m Dustin, a detail-oriented IT and Web Solutions Engineer with over five
 ## 🌟 My Projects
 <div align="left">
   <h3>Personal Portfolio Website</h3>
-  <p>Portfolio with React, Next.js, and Typescript.</p>
+  <p>Portfolio with React, Next.js, and Typescript</p>
   <div align="center">
     <img src="./Assets/Images/dm1.jpg" alt="Portfolio Animation">
   </div>
@@ -48,7 +48,7 @@ Hi! I’m Dustin, a detail-oriented IT and Web Solutions Engineer with over five
 <br><br>
 <div align="left">
   <h3>ARC</h3>
-  <p>DNS management tool for IT and networking professionals.</p>
+  <p>DNS management tool for IT and networking professionals</p>
   <div align="center">
     <img src="./Assets/Images/a-record-creator.jpg" alt="Portfolio Animation">
   </div>
@@ -57,7 +57,7 @@ Hi! I’m Dustin, a detail-oriented IT and Web Solutions Engineer with over five
 <br><br>
 <div align="left">
   <h3>Tic Tac Toe with Party Mode</h3>
-  <p>A slightly different take on Tic Tac Toe.</p>
+  <p>A slightly different take on Tic Tac Toe</p>
   <div align="center">
     <img src="./Assets/Images/tic-tac-toe.jpg" alt="Portfolio Animation">
   </div>
