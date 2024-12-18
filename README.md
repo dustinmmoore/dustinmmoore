@@ -65,8 +65,8 @@ Hi! I’m Dustin, a detail-oriented IT and Web Solutions Engineer with over five
     <p><a href="https://github.com/dustinmmoore/tictactoe">🔗 View Project</a></p>
 <br><br>
 <div align="left">
-  <h3>Dynamic Business Website</h3>
-  <p>Kinetic Solutions LLC</p>
+  <h3>Kinetic Solutions LLC</h3>
+  <p>Dynamic Business Website</p>
   <div align="center">
     <img src="./Assets/Images/ks1.jpg" alt="Portfolio Animation">
   </div>
