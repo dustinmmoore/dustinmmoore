@@ -47,7 +47,7 @@ Hi! I’m Dustin, a detail-oriented IT and Web Solutions Engineer with over five
     <p><a href="https://github.com/dustinmmoore/magic-portfolio">🔗 View Project</a></p>
 <br><br>
 <div align="left">
-  <h3>A Record Creator</h3>
+  <h3>ARC</h3>
   <p>DNS management tool for IT and networking professionals.</p>
   <div align="center">
     <img src="./Assets/Images/a-record-creator.jpg" alt="Portfolio Animation">
