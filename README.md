@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./Assets/Images/blur.jpg" alt="Dustin Moore">
+  <img src="./Assets/Images/Level.jpg" alt="Dustin Moore">
 </div>
 <br>
 <div align="center" style="display: flex; justify-content: center; gap: 15px;">
@@ -28,7 +28,7 @@ Hi! I’m Dustin, a detail-oriented IT and Web Solutions Engineer with over five
   <img src="https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=6A5ACD">
   <img src="https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=1E90FF">
   <img src="https://img.shields.io/badge/Framework-Next.js-informational?style=flat&logo=nextdotjs&logoColor=white&color=6A5ACD">
-  <img src="https://img.shields.io/badge/Framework-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=4169E1">
+  <img src="https://img.shields.io/badge/Database-Supabase-informational?style=flat&logo=supabase&logoColor=white&color=00BFFF">
   <img src="https://img.shields.io/badge/Version Control-Git-informational?style=flat&logo=git&logoColor=white&color=00BFFF">
   <img src="https://img.shields.io/badge/Deployment-Vercel-informational?style=flat&logo=vercel&logoColor=white&color=1E90FF">
 </div>
