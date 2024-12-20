@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./Assets/Images/banner.png" alt="Dustin Moore">
+  <img src="./Assets/Images/blur.jpg" alt="Dustin Moore">
 </div>
 <br>
 <div align="center" style="display: flex; justify-content: center; gap: 15px;">
