@@ -4,7 +4,6 @@
 <br>
 <div align="center" style="display: flex; justify-content: center; gap: 15px;">
   <a href="https://www.dustinmoore.dev"><img src="https://img.shields.io/badge/Website-Dustin%20Moore-1E90FF?style=flat-square&logo=google-chrome"></a>
-  <a href="mailto:dustinmmoore@icloud.com"><img src="https://img.shields.io/badge/Email-dustinmmoore%40icloud.com-6A5ACD?style=flat-square&logo=gmail"></a>
   <a href="https://www.linkedin.com/in/dustinmmoore"><img src="https://img.shields.io/badge/LinkedIn-Dustin%20Moore-00BFFF?style=flat-square&logo=linkedin"></a>
 </div>
 <br>
