@@ -6,19 +6,15 @@
   <a href="https://www.dustinmoore.dev"><img src="https://img.shields.io/badge/Website-Dustin%20Moore-1E90FF?style=flat-square&logo=google-chrome"></a>
   <a href="https://www.linkedin.com/in/dustinmmoore"><img src="https://img.shields.io/badge/LinkedIn-Dustin%20Moore-00BFFF?style=flat-square&logo=linkedin"></a>
 </div>
-<br>
-<div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=B232F7&width=435&lines=%23%23+%3Cdev+class%3D%22IT+and+Web+Solutions+Engineer%22" alt="Typing SVG" /></a>
-</div>
 
 ---
 
-## 🚀 About Me
+## About Me
 Hi! I’m Dustin, a detail-oriented IT and Web Solutions Engineer with over five years of experience in technical support, system troubleshooting, and IT infrastructure management. Since 2021, I’ve specialized in web development, designing responsive, user-friendly websites using modern frameworks. My combined expertise in IT and web development enables me to deliver seamless, efficient, and reliable digital solutions tailored to meet diverse needs.
 
 ---
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 <br>
 <div align="center" style="flex-wrap: wrap; display: flex; justify-content: center; gap: 10px;">
   <img src="https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=6A5ACD">
@@ -35,7 +31,7 @@ Hi! I’m Dustin, a detail-oriented IT and Web Solutions Engineer with over five
 
 ---
 
-## 🌟 My Projects
+## My Projects
 <div align="left">
   <h3>Personal Portfolio Website</h3>
   <p>Portfolio with React, Next.js, and Typescript</p>
