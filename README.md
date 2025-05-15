@@ -6,6 +6,10 @@
   <a href="https://www.dustinmoore.dev"><img src="https://img.shields.io/badge/Website-Dustin%20Moore-1E90FF?style=flat-square&logo=google-chrome"></a>
   <a href="https://www.linkedin.com/in/dustinmmoore"><img src="https://img.shields.io/badge/LinkedIn-Dustin%20Moore-00BFFF?style=flat-square&logo=linkedin"></a>
 </div>
+<br>
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=B232F7&width=435&lines=%23%23+%3Cdev+class%3D%22IT+and+Web+Solutions+Engineer%22" alt="Typing SVG" /></a>
+</div>
 
 ---
 
