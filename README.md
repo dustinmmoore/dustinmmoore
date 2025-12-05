@@ -34,6 +34,5 @@ I work with modern web frameworks and technologies to build responsive, fast, an
   <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=00BFFF">
   <img src="https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=1E90FF">
   <img src="https://img.shields.io/badge/Framework-Next.js-informational?style=flat&logo=nextdotjs&logoColor=white&color=6A5ACD">
-  <img src="https://img.shields.io/badge/Version Control-Git-informational?style=flat&logo=git&logoColor=white&color=00BFFF">
   <img src="https://img.shields.io/badge/Deployment-Vercel-informational?style=flat&logo=vercel&logoColor=white&color=1E90FF">
 </div>
